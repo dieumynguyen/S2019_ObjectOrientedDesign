@@ -1,4 +1,5 @@
 HW 1 Question 4 - Shape Display Via Object-Oriented Approach
+Due: 01 February 2019
 
 Team member(s): Dieu My Nguyen
 
