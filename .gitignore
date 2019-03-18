@@ -1,8 +1,11 @@
 .DS_Store
-*.docx
+DS_Store
 *.doc
-*.key
+*.docx
+*.zip
 *.xml
+*.key
+
 /Quizzes
 /Lectures
 /Etc
