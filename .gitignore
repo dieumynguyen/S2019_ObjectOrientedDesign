@@ -5,11 +5,14 @@ DS_Store
 *.zip
 *.xml
 *.key
+*.csv
+*.png
+*.jpeg
+*.jpg
 
 /Quizzes
 /Lectures
 /Etc
 /Slides
-
-*.png
-*.jpeg
+/honey-bee-annotated-images
+/bee_imgs
