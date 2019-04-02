@@ -9,6 +9,7 @@ DS_Store
 *.png
 *.jpeg
 *.jpg
+*ubyte
 
 /Quizzes
 /Lectures
@@ -16,4 +17,4 @@ DS_Store
 /Slides
 /honey-bee-annotated-images
 /bee_imgs
-/fashionmnist
+/PyTorchPresentation/fashionmnist
