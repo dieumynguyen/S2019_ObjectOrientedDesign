@@ -21,7 +21,7 @@ The 4 notebooks in this directory encapsulate the whole code base for the model.
 <img src="HW6 - Final Report/model.png" alt="model" width="850"/>
 
 <b>Instructions to run code:</b>
-The interface to run all code is the Firefly Mating Strategy Agent-Based Model.ipynb notebook. Simply run all the cells currently there. Sample output is retained to show examples of what to expect. 
+The interface to run all code is the Firefly Mating Strategy Agent-Based Model.ipynb notebook. Simply run all the cells currently there. Sample output is retained to show examples of what to expect.
 
 <b>Necessary Python packages:</b>
 - ```abc```
