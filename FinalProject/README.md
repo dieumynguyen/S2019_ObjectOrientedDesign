@@ -18,7 +18,7 @@ The 4 notebooks in this directory encapsulate the whole code base for the model.
 
 - Firefly Mating Strategy Agent-Based Model.ipynb: Acts as the primary user interface, with background information and references about the model and usage information to generate a GUI to run the model.  This notebook requires importing World.ipynb and GUI.ipynb. The GUI looks like this:
 
-<img src="HW6 - Final Report/model.png" alt="model" width="850"/>
+<img src="HW6 - Final Report/FireflyDemo.gif" alt="model" width="850"/>
 
 <b>Instructions to run code:</b>
 The interface to run all code is the Firefly Mating Strategy Agent-Based Model.ipynb notebook. Simply run all the cells currently there. Sample output is retained to show examples of what to expect.
